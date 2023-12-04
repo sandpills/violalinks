@@ -27,10 +27,15 @@ body {
     /* padding-left: 1em; */
     line-height: 1.6;
   }
+
+  .smoltexts {
+    font-size: 14px;
+  }
   
   .ascii-art {
     font-family: monospace;
     white-space: pre;
+    font-size: 14px;
 }
 
   .grid {
@@ -50,7 +55,7 @@ body {
   position: absolute;
   padding-top: 4%;
   padding-bottom: 1%;
-  bottom: 4%;
+  bottom: 3%;
   width: 100%;
   font-size: 1.2vw;
 }
@@ -59,7 +64,7 @@ body {
     position: absolute;
     margin: auto;
     text-align: center;
-    line-height: 2.1;
+    line-height: 1.9;
     /* left: 50%; */
     /* top: 40%; */
     /* transform: Translate(-50%, -50%); */
@@ -177,6 +182,6 @@ body{
     }
 
     p{
-      font-size: 14px;
+      font-size: 16px;
     }
 }
