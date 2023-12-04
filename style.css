@@ -59,6 +59,7 @@ body {
     position: absolute;
     margin: auto;
     text-align: center;
+    line-height: 1.8;
     /* left: 50%; */
     /* top: 40%; */
     /* transform: Translate(-50%, -50%); */
